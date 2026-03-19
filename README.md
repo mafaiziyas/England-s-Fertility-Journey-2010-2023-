@@ -7,19 +7,15 @@ Are national averages a true reflection of local life? My goal is to see if the 
 #Core Objectives
 
 Identify Disparities: Uncover how local district trends diverge from the reported national mean.
-
 Analyze Trends: Quantify the "speed of the drop" in fertility across different regions from 2010 to 2023.
-
 Policy Advocacy: Demonstrate the necessity of localized data storytelling in demographic research and public planning.
 
 #Technical Stack & Methodology
 
 Language: Python
-
 Environment: Google Colab
-
 Libraries: Pandas, Matplotlib, Seaborn
 
 #Key Insights
 
-The "Masking" Effect: While the national average shows a steady decline, certain local districts exhibit trajectories that are significantly more volatile, suggesting that a "one-size-fits-all" national policy would fail these communities.
+The "Masking" Effect: While the national average shows a steady decline, certain local districts exhibit trajectories that are significantly more different, suggesting that a "one-size-fits-all" national policy would fail these communities.
